@@ -1,0 +1,3 @@
+[submodule "pycon-solver"]
+	path = pycon-solver
+	url = https://github.com/jvkersch/pyconcorde
